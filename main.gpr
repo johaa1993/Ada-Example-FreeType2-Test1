@@ -1,0 +1,19 @@
+with "../Ada-FreeType2/freetype2";
+
+project Main is
+
+   for Languages use ("ada");
+   for Source_Dirs use ("src");
+   for Main use ("main.adb");
+   for Object_Dir use "obj";
+   for Library_Dir use "lib";
+   for Exec_Dir use "bin";
+
+   package Builder is
+   end Builder;
+
+   package Compiler is
+   end Compiler;
+
+end Main;
+

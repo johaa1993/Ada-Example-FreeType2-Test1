@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\main.gpr
+20170212032828
+C:\Users\Johan\Documents\GitHub\Ada-FreeType2\freetype2.gpr
+20170212123732
+[BOUND OBJECT FILES]
+C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\obj\
+-LC:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\obj\
+-LC:\Users\Johan\Documents\GitHub\Ada-FreeType2\lib\
+-LC:/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/
+-static
+-static-libgcc
+C:/gnat/2016/lib/gcc/i686-pc-mingw32/4.9.4/adalib/libgnat.a
+-Wl,--stack=0x2000000

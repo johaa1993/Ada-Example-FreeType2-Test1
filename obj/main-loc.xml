@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\main.gpr</vfs_file>
+    <file_marker column=" 4" line=" 9" >
+      <vfs_project>C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\main.gpr</vfs_project>
+      <vfs_file>C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Johan\Documents\GitHub\Ada-FreeType2\freetype2.gpr</vfs_project>
+      <vfs_file>C:\Users\Johan\Documents\GitHub\Ada-FreeType2\src\freetype2.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 5" >
+      <vfs_project>C:\Users\Johan\Documents\GitHub\Ada-FreeType2\freetype2.gpr</vfs_project>
+      <vfs_file>C:\Users\Johan\Documents\GitHub\Ada-FreeType2\src\freetype2.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 3" >
+      <vfs_project>C:\Users\Johan\Documents\GitHub\Ada-FreeType2\freetype2.gpr</vfs_project>
+      <vfs_file>C:\Users\Johan\Documents\GitHub\Ada-FreeType2\src\freetype2.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\main.gpr</vfs_project>
+      <vfs_file>C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 9" >
+      <vfs_project>C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\main.gpr</vfs_project>
+      <vfs_file>C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Johan\Documents\GitHub\Ada-FreeType2\freetype2.gpr</vfs_project>
+      <vfs_file>C:\Users\Johan\Documents\GitHub\Ada-FreeType2\src\freetype2.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 7" >
+      <vfs_project>C:\Users\Johan\Documents\GitHub\Ada-FreeType2\freetype2.gpr</vfs_project>
+      <vfs_file>C:\Users\Johan\Documents\GitHub\Ada-FreeType2\src\freetype2.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 8" >
+      <vfs_project>C:\Users\Johan\Documents\GitHub\Ada-FreeType2\freetype2.gpr</vfs_project>
+      <vfs_file>C:\Users\Johan\Documents\GitHub\Ada-FreeType2\src\freetype2.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 7" >
+      <vfs_project>C:\Users\Johan\Documents\GitHub\Ada-FreeType2\freetype2.gpr</vfs_project>
+      <vfs_file>C:\Users\Johan\Documents\GitHub\Ada-FreeType2\src\freetype2.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 15" >
+      <vfs_project>C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\main.gpr</vfs_project>
+      <vfs_file>C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9" >
+      <vfs_project>C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\main.gpr</vfs_project>
+      <vfs_file>C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 12" >
+      <vfs_project>C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\main.gpr</vfs_project>
+      <vfs_file>C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 38" line=" 11" >
+      <vfs_project>C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\main.gpr</vfs_project>
+      <vfs_file>C:\Users\Johan\Documents\GitHub\Ada-Example-FreeType2-Test1\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
